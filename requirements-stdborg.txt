@@ -7,7 +7,6 @@ coffeehouse
 cryptg
 deezloader
 emoji
-https://github.com/xmrea/Depo/releases/download/0.00001/webrtcvad-2.0.10-cp37-cp37m-linux_x86_64.whl
 googletrans
 google_images_download==2.8.0
 gtts
