@@ -7,6 +7,7 @@ coffeehouse
 cryptg
 deezloader
 emoji
+https://github.com/xmrea/Depo/releases/download/0.00001/webrtcvad-2.0.10-cp37-cp37m-linux_x86_64.whl
 googletrans
 google_images_download==2.8.0
 gtts
@@ -31,3 +32,7 @@ google-api-python-client==1.7.11
 oauth2client==4.1.3
 httplib2==0.13.1
 justwatch
+you-get
+ffmpeg-bitrate-stats
+git+https://github.com/BingLingGroup/autosub.git@dev
+git+https://github.com/smacke/ffsubsync@latest
