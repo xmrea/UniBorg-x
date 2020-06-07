@@ -1,6 +1,7 @@
 tree
 wget
 wget2
+streamlink
 pv
 jq
 p7zip-full
