@@ -21,6 +21,7 @@ regex
 requests
 selenium
 speedtest-cli
+streamlink
 sqlalchemy
 telegraph
 urbandict
