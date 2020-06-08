@@ -1,3 +1,4 @@
+pip -U
 aiofiles
 aiohttp
 aria2p
@@ -16,6 +17,7 @@ psycopg2
 pySmartDL
 python-barcode
 python-magic
+python-Levenshtein
 qrcode
 regex
 requests
@@ -33,5 +35,5 @@ httplib2==0.13.1
 justwatch
 you-get
 ffmpeg-bitrate-stats
-git+https://github.com/BingLingGroup/autosub.git@dev
+git+https://github.com/BingLingGroup/autosub.git@dev ffmpeg-normalize langcodes
 git+https://github.com/smacke/ffsubsync@latest
