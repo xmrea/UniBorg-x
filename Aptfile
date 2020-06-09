@@ -1,4 +1,4 @@
 tree
 wget
-unrar
+p7zip-full
 libsndfile1-dev
