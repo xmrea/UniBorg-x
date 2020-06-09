@@ -37,5 +37,6 @@ you-get
 langcodes
 ffmpeg-normalize
 ffmpeg-bitrate-stats
+spleeter
 git+https://github.com/BingLingGroup/autosub.git@alpha
 git+https://github.com/smacke/ffsubsync@latest
