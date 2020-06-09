@@ -1,5 +1,7 @@
 tree
 wget
+p7zip
 p7zip-full
 p7zip-rar
+p7zip-plugins
 libsndfile1-dev
